@@ -3,7 +3,7 @@
 Dasn ce repo, nous allons voir comment utiliser le plugin JaCoCo Maven pour générer un rapport de couverture de code
 pour un projet Java.
 
-**Remarque**
+**Remarque** : 
 *JaCoCo est un outil de couverture de ligne activement développé, qui est utilisé pour mesurer le nombre de lignes de
 notre code testées.*
 
